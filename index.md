@@ -17,7 +17,9 @@ The training and test datasets are in the form of sentences. The training set is
 3. HP Lovecraft abbreviated as **HPL**
 
 ## The procedure that we will be following
-We are using R programming to clean the data. 
+We are using R programming to clean the data. We have used R to determine the frequency of different words used across the training set. 
+
+We need to implement a Recursive Neural Network to find connections between the words in the sentences keeping in mind their order. This involves some knowledge of 
 
 
 
